@@ -38,24 +38,15 @@ Processed presence/absence matrices and filtered datasets are included under `da
 # Folder structure
 
 ```plaintext
-├── data/
-│   ├── raw/             # Downloaded read tables & metadata (not tracked)
-│   └── processed/       # Filtered & formatted input tables (CSV)
-│
+├── data/ # Filtered & formatted input tables (CSV)│
+│               
 ├── notebooks/          # Jupyter notebooks for exploration & QC
-│   ├── 01_data_QC.ipynb
-│   ├── 02_hmm_search.ipynb
-│   └── 03_correlation.ipynb
 │
 ├── src/                # Core Python modules
-│   ├── data_loader.py  # functions to read & merge datasets
-│   ├── hmm_pipeline.py # hmmbuild → hmmsearch wrappers
-│   └── metrics.py      # correlation & statistics utilities
-│
-├── scripts/            # Standalone scripts
+│ 
+├── scripts/            # Generated figure outputs (PNG, PDF)
 │   └── plot_nod_vs_oxygen.py
-│
-├── figures/            # Generated figure outputs (PNG, PDF)
+├── figures/            
 │
 ├── results/            # Analysis results & tables used in manuscript
 │
@@ -68,35 +59,12 @@ Each subdirectory contains a brief `README.md` explaining its contents.
 
 ---
 
-# Installation
-
-1. **Clone the repo**
-
-   ```bash
-   git clone https://github.com/rs2000mit/20.440-Final-Project.git
-   cd 20.440-Final-Project
-   ```
-
-2. **Create a Python environment** (recommended)
-
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   ```
-
-3. **Install Python dependencies**
-
-   ```bash
-   pip install --upgrade pip
-   pip install -r requirements.txt
-   ```
-
    Dependencies include:
 
    - Python ≥ 3.8
    - numpy, pandas, matplotlib, scikit-learn, scipy, biopython
 
-4. **Install HMMER3**
+ **How to Install HMMER3**
 
    ```bash
    # On macOS with Homebrew:
@@ -108,7 +76,7 @@ Each subdirectory contains a brief `README.md` explaining its contents.
    ./configure && make && make install
    ```
 
-5. **Install MEGA6**
+5. **How to Install MEGA6**
 
    Download the MEGA6 desktop application from [*https://www.megasoftware.net/*](https://www.megasoftware.net/) to perform phylogenetic reconstructions.
 
@@ -124,5 +92,5 @@ Each subdirectory contains a brief `README.md` explaining its contents.
   python scripts/plot_nod_vs_oxygen.py
   ```
 
-For detailed instructions, see the notebooks in `notebooks/` and README files in each subfolder.
+For detailed instructions, see the README files in each subfolder.
 
