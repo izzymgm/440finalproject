@@ -60,10 +60,13 @@ Each subdirectory contains a brief `README.md` explaining its contents.
 ---
 # Installation:
 
+### code for pset 6: plot_nod_vs_oxygen.py
+### data for pset 6: df_all_o2readings.csv
+
 To run the code make sure that the .csv file is in the same folder as the .py file
 This code was developed using python 3.13.3.
 
-code for pset 6: plot_nod_vs_oxygen.py
+
 
    Dependencies required:
 
