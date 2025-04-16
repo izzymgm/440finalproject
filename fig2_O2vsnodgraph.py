@@ -7,20 +7,19 @@ fits a linear regression line, computes the R² score, and displays an anoxic cu
 """
 
 # Import necessary libraries
-import os                                   # for constructing file paths
-import matplotlib.pyplot as plt             # plotting library
-import numpy as np                          # numerical operations
-import pandas as pd                         # data handling
-from sklearn.metrics import r2_score        # to compute R² for the regression
+import os                                   
+import matplotlib.pyplot as plt             
+import numpy as np                         
+import pandas as pd                        
+from sklearn.metrics import r2_score        
 
 
 def main():
     # -------------------------------------------------------------------------
-    # 1. Load your data using a relative path
+    # 1. Load your data using a relative path (place df_all_o2readings.csv in same folder as script
     # -------------------------------------------------------------------------
-    here = os.path.dirname(__file__)                      # path to script’s folder
-    data_path = os.path.join(here, "data", "your_data.csv")
-    df_ALL = pd.read_csv(data_path)
+
+    df_ALL = pd.read_csv("df_all_o2readings.csv")
 
     # -------------------------------------------------------------------------
     # 2. Extract the variables for plotting
