@@ -58,8 +58,12 @@ Processed presence/absence matrices and filtered datasets are included under `da
 Each subdirectory contains a brief `README.md` explaining its contents.
 
 ---
+# Installation:
 
-   Dependencies include:
+To run the code make sure that the .csv file is in the same folder as the .py file
+This code was developed using python 3.13.3.
+
+   Dependencies required:
 
    - Python ≥ 3.8
    - numpy, pandas, matplotlib, scikit-learn, scipy, biopython
