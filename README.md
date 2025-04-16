@@ -45,7 +45,7 @@ Processed presence/absence matrices and filtered datasets are included under `da
 ├── src/                # Core Python modules
 │ 
 ├── scripts/            # Generated figure outputs (PNG, PDF)
-│   └── plot_nod_vs_oxygen.py
+│  
 ├── figures/            
 │
 ├── results/            # Analysis results & tables used in manuscript
@@ -62,6 +62,8 @@ Each subdirectory contains a brief `README.md` explaining its contents.
 
 To run the code make sure that the .csv file is in the same folder as the .py file
 This code was developed using python 3.13.3.
+
+code for pset 6: plot_nod_vs_oxygen.py
 
    Dependencies required:
 
