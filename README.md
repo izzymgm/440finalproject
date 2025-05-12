@@ -1,10 +1,10 @@
-# 440finalproject
+# 440 fina lproject, Izzy Goodchild-Michelman and Rachel Shen
 
 # Overview
 
 This repository provides a complete pipeline for the multi‑omic analysis of dark oxygen production in anoxic waters via nitrate/oxygen dismutation (NOD). It includes:
 
-- **Exploratory notebooks**: Jupyter notebooks demonstrating data QC, visualization, and initial hypothesis testing.
+- **Exploratory notebook**: Jupyter notebooks demonstrating data QC, visualization, and initial hypothesis testing.
 - **Data processing scripts**: Python modules for parsing metagenomic and metatranscriptomic read tables, presence/absence calls, and normalization.
 - **HMMER pipeline**: Shell and Python wrappers to build and apply a consensus HMM profile for nod genes using HMMER3 (Eddy, 2017). 
 - **Phylogenetic analysis files**: MEGA6 input files and exported Newick trees for nod gene family reconstruction (Tamura et al., 2013).
