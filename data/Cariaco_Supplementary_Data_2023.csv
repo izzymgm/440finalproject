@@ -1,0 +1,97 @@
+﻿ncbi_metagenome_name,ncbi_metatranscriptome_name,depth,size_fraction,time_point,replicate,sample_name_used_for_this_study,sample_type,year,redox_regime,O2,NO3,H2S
+D2a247B,NA,247,free-living (0.2-2.7 um),November,1,NFL247_1,metagenome,2014,shallow anoxic,0,NA,NA
+D2b247B,NA,247,free-living (0.2-2.7 um),November,2,NFL247_2,metagenome,2014,shallow anoxic,0,NA,NA
+D2a267B,NA,267,free-living (0.2-2.7 um),November,1,NFL267_1,metagenome,2014,shallow anoxic,0,NA,NA
+D2b267B,NA,267,free-living (0.2-2.7 um),November,2,NFL267_2,metagenome,2014,shallow anoxic,0,NA,NA
+D3a295B,NA,295,free-living (0.2-2.7 um),May,1,MFL295_1,metagenome,2014,shallow anoxic,0,NA,NA
+D3b295B,NA,295,free-living (0.2-2.7 um),May,2,MFL295_2,metagenome,2014,shallow anoxic,0,NA,NA
+D3a314B,NA,314,free-living (0.2-2.7 um),May,1,MFL314_1,metagenome,2014,shallow anoxic,0,NA,NA
+D3b314B,NA,314,free-living (0.2-2.7 um),May,2,MFL314_2,metagenome,2014,shallow anoxic,0,NA,NA
+D2a900BN,NA,900,free-living (0.2-2.7 um),November,1,NFL900_1,metagenome,2014,euxinic,0,NA,NA
+D2b900BN,NA,900,free-living (0.2-2.7 um),November,2,NFL900_2,metagenome,2014,euxinic,0,NA,NA
+D2a237B,NA,237,free-living (0.2-2.7 um),November,1,NFL237_1,metagenome,2014,oxycline,0.4,NA,NA
+D2b237B,NA,237,free-living (0.2-2.7 um),November,2,NFL237_2,metagenome,2014,oxycline,0.4,NA,NA
+D3a234B,NA,234,free-living (0.2-2.7 um),May,1,MFL234_1,metagenome,2014,oxycline,12,NA,NA
+D3b234B,NA,234,free-living (0.2-2.7 um),May,2,MFL234_2,metagenome,2014,oxycline,12,NA,NA
+D2a200B,NA,200,free-living (0.2-2.7 um),November,1,NFL200_1,metagenome,2014,oxycline,14,NA,NA
+D2b200B,NA,200,free-living (0.2-2.7 um),November,2,NFL200_2,metagenome,2014,oxycline,14,NA,NA
+D2a143B,NA,143,free-living (0.2-2.7 um),November,1,NFL143_1,metagenome,2014,oxycline,82,NA,NA
+D2b143B,NA,143,free-living (0.2-2.7 um),November,2,NFL143_2,metagenome,2014,oxycline,82,NA,NA
+D3a103B,NA,103,free-living (0.2-2.7 um),May,1,MFL103_1,metagenome,2014,oxycline,123,NA,NA
+D3b103B,NA,103,free-living (0.2-2.7 um),May,2,MFL103_2,metagenome,2014,oxycline,123,NA,NA
+D1b900BM,NA,900,free-living (0.2-2.7 um),May,2,MFL900_2,metagenome,2014,euxinic,0,0,70
+D3a900BM,NA,900,free-living (0.2-2.7 um),May,1,MFL900_1,metagenome,2014,euxinic,0,0,70
+D3a198B,NA,198,free-living (0.2-2.7 um),May,1,MFL198_1,metagenome,2014,oxycline,37.9,11,0
+D3b198B,NA,198,free-living (0.2-2.7 um),May,2,MFL198_2,metagenome,2014,oxycline,37.9,11,0
+D2a247A,NA,247,particle-associated (>2.7 um),November,1,NPA247_1,metagenome,2014,shallow anoxic,0,NA,NA
+D2b247A,NA,247,particle-associated (>2.7 um),November,2,NPA247_2,metagenome,2014,shallow anoxic,0,NA,NA
+D2a267A,NA,267,particle-associated (>2.7 um),November,1,NPA267_1,metagenome,2014,shallow anoxic,0,NA,NA
+D2b267A,NA,267,particle-associated (>2.7 um),November,2,NPA267_2,metagenome,2014,shallow anoxic,0,NA,NA
+D3a295A,NA,295,particle-associated (>2.7 um),May,1,MPA295_1,metagenome,2014,shallow anoxic,0,NA,NA
+D3b295A,NA,295,particle-associated (>2.7 um),May,2,MPA295_2,metagenome,2014,shallow anoxic,0,NA,NA
+D3a314A,NA,314,particle-associated (>2.7 um),May,1,MPA314_1,metagenome,2014,shallow anoxic,0,NA,NA
+D3b314A,NA,314,particle-associated (>2.7 um),May,2,MPA314_2,metagenome,2014,shallow anoxic,0,NA,NA
+D2a900AN,NA,900,particle-associated (>2.7 um),November,1,NPA900_1,metagenome,2014,euxinic,0,NA,NA
+D2b900AN,NA,900,particle-associated (>2.7 um),November,2,NPA900_2,metagenome,2014,euxinic,0,NA,NA
+D2a237A,NA,237,particle-associated (>2.7 um),November,1,NPA237_1,metagenome,2014,oxycline,0.4,NA,NA
+D2b237A,NA,237,particle-associated (>2.7 um),November,2,NPA237_2,metagenome,2014,oxycline,0.4,NA,NA
+D3a234A,NA,234,particle-associated (>2.7 um),May,1,MPA234_1,metagenome,2014,oxycline,12,NA,NA
+D3b234A,NA,234,particle-associated (>2.7 um),May,2,MPA234_2,metagenome,2014,oxycline,12,NA,NA
+D2a200A,NA,200,particle-associated (>2.7 um),November,1,NPA200_1,metagenome,2014,oxycline,14,NA,NA
+D2b200A,NA,200,particle-associated (>2.7 um),November,2,NPA200_2,metagenome,2014,oxycline,14,NA,NA
+D2a143A,NA,143,particle-associated (>2.7 um),November,1,NPA143_1,metagenome,2014,oxycline,82,NA,NA
+D2b143A,NA,143,particle-associated (>2.7 um),November,2,NPA143_2,metagenome,2014,oxycline,82,NA,NA
+D3a103A,NA,103,particle-associated (>2.7 um),May,1,MPA103_1,metagenome,2014,oxycline,123,NA,NA
+D3b103A,NA,103,particle-associated (>2.7 um),May,2,MPA103_2,metagenome,2014,oxycline,123,NA,NA
+D1b900AM,NA,900,particle-associated (>2.7 um),May,2,MPA900_2,metagenome,2014,euxinic,0,0,70
+D3a900AM,NA,900,particle-associated (>2.7 um),May,1,MPA900_1,metagenome,2014,euxinic,0,0,70
+D3a198A,NA,198,particle-associated (>2.7 um),May,1,MPA198_1,metagenome,2014,oxycline,37.9,11,0
+D3b198A,NA,198,particle-associated (>2.7 um),May,2,MPA198_2,metagenome,2014,oxycline,37.9,11,0
+NA,R2a247B,247,free-living (0.2-2.7 um),November,1,NFL247_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2b247B,247,free-living (0.2-2.7 um),November,2,NFL247_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2a267B,267,free-living (0.2-2.7 um),November,1,NFL267_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2b267B,267,free-living (0.2-2.7 um),November,2,NFL267_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3a295B,295,free-living (0.2-2.7 um),May,1,MFL295_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3b295B,295,free-living (0.2-2.7 um),May,2,MFL295_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3a314B,314,free-living (0.2-2.7 um),May,1,MFL314_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3b314B,314,free-living (0.2-2.7 um),May,2,MFL314_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2a900BN,900,free-living (0.2-2.7 um),November,1,NFL900_1,metatranscriptome,2014,euxinic,0,NA,NA
+NA,R2b900BN,900,free-living (0.2-2.7 um),November,2,NFL900_2,metatranscriptome,2014,euxinic,0,NA,NA
+NA,R2a237B,237,free-living (0.2-2.7 um),November,1,NFL237_1,metatranscriptome,2014,oxycline,0.4,NA,NA
+NA,R2b237B,237,free-living (0.2-2.7 um),November,2,NFL237_2,metatranscriptome,2014,oxycline,0.4,NA,NA
+NA,R3a234B,234,free-living (0.2-2.7 um),May,1,MFL234_1,metatranscriptome,2014,oxycline,12,NA,NA
+NA,R3b234B,234,free-living (0.2-2.7 um),May,2,MFL234_2,metatranscriptome,2014,oxycline,12,NA,NA
+NA,R2a200B,200,free-living (0.2-2.7 um),November,1,NFL200_1,metatranscriptome,2014,oxycline,14,NA,NA
+NA,R2b200B,200,free-living (0.2-2.7 um),November,2,NFL200_2,metatranscriptome,2014,oxycline,14,NA,NA
+NA,R2a148B,148,free-living (0.2-2.7 um),November,1,NFL148_1,metatranscriptome,2014,oxycline,82,NA,NA
+NA,R2b148B,148,free-living (0.2-2.7 um),November,2,NFL148_2,metatranscriptome,2014,oxycline,82,NA,NA
+NA,R3a103B,103,free-living (0.2-2.7 um),May,1,MFL103_1,metatranscriptome,2014,oxycline,123,NA,NA
+NA,R3b103B,103,free-living (0.2-2.7 um),May,2,MFL103_2,metatranscriptome,2014,oxycline,123,NA,NA
+NA,R1b900BM,900,free-living (0.2-2.7 um),May,2,MFL900_2,metatranscriptome,2014,euxinic,0,0,70
+NA,R3a900BM,900,free-living (0.2-2.7 um),May,1,MFL900_1,metatranscriptome,2014,euxinic,0,0,70
+NA,R3a198B,198,free-living (0.2-2.7 um),May,1,MFL198_1,metatranscriptome,2014,oxycline,37.9,11,0
+NA,R3b198B,198,free-living (0.2-2.7 um),May,2,MFL198_2,metatranscriptome,2014,oxycline,37.9,11,0
+NA,R2a247A,247,particle-associated (>2.7 um),November,1,NPA247_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2b247A,247,particle-associated (>2.7 um),November,2,NPA247_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2a267A,267,particle-associated (>2.7 um),November,1,NPA267_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2b267A,267,particle-associated (>2.7 um),November,2,NPA267_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3a295A,295,particle-associated (>2.7 um),May,1,MPA295_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3b295A,295,particle-associated (>2.7 um),May,2,MPA295_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3a314A,314,particle-associated (>2.7 um),May,1,MPA314_1,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R3b314A,314,particle-associated (>2.7 um),May,2,MPA314_2,metatranscriptome,2014,shallow anoxic,0,NA,NA
+NA,R2a900AN,900,particle-associated (>2.7 um),November,1,NPA900_1,metatranscriptome,2014,euxinic,0,NA,NA
+NA,R2b900AN,900,particle-associated (>2.7 um),November,2,NPA900_2,metatranscriptome,2014,euxinic,0,NA,NA
+NA,R2a237A,237,particle-associated (>2.7 um),November,1,NPA237_1,metatranscriptome,2014,oxycline,0.4,NA,NA
+NA,R2b237A,237,particle-associated (>2.7 um),November,2,NPA237_2,metatranscriptome,2014,oxycline,0.4,NA,NA
+NA,R3a234A,234,particle-associated (>2.7 um),May,1,MPA234_1,metatranscriptome,2014,oxycline,12,NA,NA
+NA,R3b234A,234,particle-associated (>2.7 um),May,2,MPA234_2,metatranscriptome,2014,oxycline,12,NA,NA
+NA,R2a200A,200,particle-associated (>2.7 um),November,1,NPA200_1,metatranscriptome,2014,oxycline,14,NA,NA
+NA,R2b200A,200,particle-associated (>2.7 um),November,2,NPA200_2,metatranscriptome,2014,oxycline,14,NA,NA
+NA,R2a148A,148,particle-associated (>2.7 um),November,1,NPA148_1,metatranscriptome,2014,oxycline,82,NA,NA
+NA,R2b148A,148,particle-associated (>2.7 um),November,2,NPA148_2,metatranscriptome,2014,oxycline,82,NA,NA
+NA,R3a103A,103,particle-associated (>2.7 um),May,1,MPA103_1,metatranscriptome,2014,oxycline,123,NA,NA
+NA,R3b103A,103,particle-associated (>2.7 um),May,2,MPA103_2,metatranscriptome,2014,oxycline,123,NA,NA
+NA,R1b900AM,900,particle-associated (>2.7 um),May,2,MPA900_2,metatranscriptome,2014,euxinic,0,0,70
+NA,R3a900AM,900,particle-associated (>2.7 um),May,1,MPA900_1,metatranscriptome,2014,euxinic,0,0,70
+NA,R3a198A,198,particle-associated (>2.7 um),May,1,MPA198_1,metatranscriptome,2014,oxycline,37.9,11,0
+NA,R3b198A,198,particle-associated (>2.7 um),May,2,MPA198_2,metatranscriptome,2014,oxycline,37.9,11,0
