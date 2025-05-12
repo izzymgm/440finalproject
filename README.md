@@ -41,17 +41,13 @@ Processed presence/absence matrices and filtered datasets are included under `da
 ├── data/ # Filtered & formatted input tables (CSV)│
 │               
 ├── notebooks/          # Jupyter notebooks for exploration & QC
-│
-├── src/                # Core Python modules
 │ 
 ├── scripts/            # Generated figure outputs (PNG, PDF)
 │  
 ├── figures/            
 │
 ├── results/            # Analysis results & tables used in manuscript
-│
-├── docs/               # Supplementary methods & protocol descriptions
-│
+││
 └── README.md           # This file
 ```
 
