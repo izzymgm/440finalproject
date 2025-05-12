@@ -1,4 +1,5 @@
-# 440 fina lproject, Izzy Goodchild-Michelman and Rachel Shen
+# 440 finalproject
+## Izzy Goodchild-Michelman and Rachel Shen
 
 # Overview
 
