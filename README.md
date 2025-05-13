@@ -8,7 +8,6 @@ This repository provides a complete pipeline for the multi‑omic analysis of da
 - **Exploratory notebook**: Jupyter notebooks demonstrating data QC, visualization, and initial hypothesis testing.
 - **Data processing scripts**: Python modules for parsing metagenomic and metatranscriptomic read tables, presence/absence calls, and normalization.
 - **HMMER pipeline**: Shell and Python wrappers to build and apply a consensus HMM profile for nod genes using HMMER3 (Eddy, 2017). 
-- **Phylogenetic analysis files**: MEGA6 input files and exported Newick trees for nod gene family reconstruction (Tamura et al., 2013).
 - **Plotting scripts**: Standalone `.py` files (e.g., `plot_nod_vs_oxygen.py`) that generate figures used in the manuscript.
 
 > **Citations:**
@@ -44,11 +43,9 @@ Processed presence/absence matrices and filtered datasets are included under `da
 ├── notebooks/          # Jupyter notebooks for exploration & QC
 │ 
 ├── scripts/            # Generated figure outputs (PNG, PDF)
-│  
-├── figures/            
-│
+│ 
 ├── results/            # Analysis results & tables used in manuscript
-││
+│
 └── README.md           # This file
 ```
 
